@@ -2,7 +2,7 @@
 
 CLI tools for the [quantified self](https://en.wikipedia.org/wiki/Quantified_self) — export your personal data from various services so you (and your LLMs) can analyze it.
 
-These tools emit clean, structured output (JSON/CSV) suitable for piping into LLM context, notebooks, dashboards, or your own data pipelines.
+Output is Markdown — well-suited for piping into LLM context, dropping into notebooks, or rendering as-is.
 
 ## Tools
 
