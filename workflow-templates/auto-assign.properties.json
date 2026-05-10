@@ -1,6 +1,6 @@
 {
-  "name": "Auto Assign",
-  "description": "Auto-assign DTTerastar to newly opened issues and pull requests.",
+  "name": "Auto Assign PR",
+  "description": "Auto-assign DTTerastar to newly opened pull requests.",
   "iconName": "octicon person",
   "categories": ["Automation"]
 }
